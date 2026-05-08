@@ -3,5 +3,20 @@
     padding: 0;
     margin: 0;
 }
+body {
+   background-color: white ;
+}
 
-/* write all your rules below */
+.
+.header { 
+    display: flex;
+    background-color: pink;
+    border: 15px;
+    border-color: red;
+    margin: 80px;
+}
+
+.hero{
+    display: flex;
+    
+}
