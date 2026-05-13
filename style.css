@@ -7,16 +7,39 @@ body {
    background-color: white ;
 }
 
-.
-.header { 
-    display: flex;
-    background-color: pink;
-    border: 15px;
-    border-color: red;
-    margin: 80px;
+header { 
+     background-color: pink;
+     border: 15px solid red;
+     width: 70vw;
+     padding: 10px;
+     margin: 50px;
 }
 
-.hero{
-    display: flex;
-    
+#div{
+    background-color: aquamarine;
+    width: 100vw;
+    height: 35vh;
+    margin-top: 80px;
+    padding: 160px;
+    box-sizing: border-box;
+}
+
+#div-2{
+    background-color: yellow;
+    width: 45vw;
+    height: 15vh;
+    margin: 50px;
+    padding: 20px;
+    border: 20px solid pink;
+}
+p{
+    color: blue;
+}
+
+.class{ 
+    color: green;
+}
+
+#p{
+    color: purple;
 }
